@@ -1,0 +1,6 @@
+a[routerLink] {
+  pointer-events: auto;
+  z-index: 1;
+  text-decoration: underline;
+  cursor: pointer;
+}
